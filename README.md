@@ -1,5 +1,5 @@
 # spotdl-playlist-updater
-Just a simple bash script for updating your spotify playlists with spotdl.
+Just a simple bash script for updating your spotify playlists using spotdl.
 Note, install spotdl first https://github.com/spotDL/spotify-downloader.
 ## Installation
 1. Download the script:
