@@ -10,4 +10,6 @@ Just a simple bash script for updating your spotify playlists with spotdl.
   chmod +x spotdl-playlist-updater.sh
   ```
 ## Usage
+```bash
+./spotdl-playlist-updater
 
