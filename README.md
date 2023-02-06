@@ -4,4 +4,7 @@ Just a simple bash script for updating your spotify playlists with spotdl.
 1. Download the script:
   ```bash
   git clone https://github.com/terrortoon/Spotdl-playlist-updater
-  
+2. make the script executable
+  ```bash
+  chmod +x spotdl-playlist-updater.sh
+  ```
